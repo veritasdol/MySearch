@@ -56,4 +56,21 @@
 .input_div:hover {
     box-shadow: 0px 0px 5px #888888 ;
 }
+#result {
+    display: flex;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 
+    
+}
+.rs {
+    display: block;
+    border: #3c4043;
+}
+.fw-bold a {
+    text-decoration: none;
+}
+.fw-bold a:hover {
+    text-decoration: underline;
+}
