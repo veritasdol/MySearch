@@ -74,3 +74,7 @@
 .fw-bold a:hover {
     text-decoration: underline;
 }
+h1 {
+    text-align: center;
+    padding: 20px;
+}
